@@ -1,4 +1,11 @@
-# personal-website
+# William's Portfolio Website
+My personal portfolio website to showcase my projects and other cool things about me! 😄
+
+Ideally, this will eventually be a full-stack app built using MEVN (MongoDB, Express, Vue, Node).
+
+Link to website: .
+
+Started `2022-11-06`. Last updated `2022-11-10`.
 
 ## Project setup
 ```
